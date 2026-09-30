@@ -48,4 +48,3 @@ O projeto foi desenvolvido na aula do curso Java Spring Expert - Capítulo: "Tes
 - Implementação de cenários de busca, inserção, deleção e atualização
 
 - Tratamento de exceções em API com respostas HTTP customizadas
-Text to speech button
